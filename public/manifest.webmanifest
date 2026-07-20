@@ -1,0 +1,20 @@
+{
+  "name": "Pharmacy Operational Suite",
+  "short_name": "Pharmacy",
+  "description": "Enterprise Pharmacy Operational Suite for the Egyptian market",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4169E1",
+  "lang": "ar",
+  "dir": "rtl",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
